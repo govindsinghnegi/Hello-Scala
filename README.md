@@ -1,2 +1,2 @@
-# Hello-Scala
-This repo contains my practise while learning Scala language 
+# coding_in_scala
+Repo to practise coding in Scala language using simple programs and concepts
