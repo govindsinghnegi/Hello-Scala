@@ -1,0 +1,1 @@
+This repo contains examples that I have tried while learning Scala using the textbook "SCALA for the Impatient" by Cay Horstmann. I would definitely recommend this book for anyone who know Java well and have a very basic knowledge of any functional programming language. 
